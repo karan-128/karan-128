@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Karan Saxena</h1>
-<h3 align="center">student - Data Analyst - learner</h3>
+<h3 align="center" >:ice_cube: - <span class="emphasized" >Data Analyst</span> - 🧑‍💻</h3>
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/karan-128/karan-128/blob/main/code.gif">
 
 - 🔭 I’m currently working <a href="https://www.comscore.com/">@comscore, inc</a> as a Data Analyst. 
