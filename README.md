@@ -10,7 +10,7 @@
 
 <h4 align="left">Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/karan128" target="_blank"><img src="https://img.shields.io/badge/-Karan_Saxena-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/karan128/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Karan_Saxena-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 [![Gmail](https://img.shields.io/badge/-Karan-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karansaxenas@gmail.com)
-<a href="https://www.instagram.com/kk.aran/" target="_blank"><img src="https://img.shields.io/badge/kk.aran-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" width="70" height="20"></a>
+<a href="https://www.instagram.com/kk.aran/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/kk.aran-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" width="70" height="20"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-128&label=Profile%20views&color=0e75b6&style=flat" alt="karan-128" /> </p>
